@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, seja bem vindo! 👋
 
-<!--
-**Barjul07/Barjul07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nós nos chamamos Bárbara Mendonça e Julia Moratelli
 
-Here are some ideas to get you started:
+- Estamos estudando na Alura
+- 🔭 Estamos nos desenvolvendo na linguagem JavaScript
+- 🌱 Ultilizamos esse espaço para nossa prganização e compartilhamento de nosso projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para vocês entrarem em contato com a gente:
+
+00001095046846sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/nXNHCwBK_M4AAAAC/lazy-cat.gif)
+
